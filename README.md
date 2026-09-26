@@ -61,5 +61,5 @@ notebook before running.
 
 ```bash
 pip install tensorflow albumentations opencv-python scikit-learn pandas matplotlib
-jupyter notebook rice-leaf-disease.ipynb
+jupyter notebook main.ipynb
 ```
